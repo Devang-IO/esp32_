@@ -153,10 +153,6 @@ void testCustom() {
 }
 ```
 
-## License
-
-This code is provided as-is for educational and diagnostic purposes. Feel free to modify and distribute according to your needs.
-
 ## Version
 
 Version 1.0 - Complete ESP32 hardware diagnostic suite
